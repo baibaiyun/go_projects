@@ -1,3 +1,9 @@
+// Copyright (c) 2019, Rail Inc.
+// All rights reserved.
+// Description: Go project.
+// Author: baibiayun
+// Date: 2020/02/15
+
 package main
 
 import (
